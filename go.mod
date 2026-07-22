@@ -1,3 +1,3 @@
 module go_github_actions
 
-go 1.22
+go 1.20
